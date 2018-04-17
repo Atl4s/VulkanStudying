@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  BaseApplication.cpp
+  vulkan_studying.cpp
+  Window.cpp
+  Generating code
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  vulkan_studying.vcxproj -> C:\Users\n3m0\documents\visual studio 2017\Projects\vulkan_studying\Release\vulkan_studying.exe

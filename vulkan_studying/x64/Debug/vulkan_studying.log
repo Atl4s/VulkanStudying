@@ -1,0 +1,13 @@
+﻿  BaseApplication.cpp
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(139): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(143): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(525): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(925): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(969): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n3m0\documents\visual studio 2017\projects\vulkan_studying\vulkan_studying\baseapplication.cpp(1330): warning C4838: conversion from 'int' to 'uint32_t' requires a narrowing conversion
+  Generating Code...
+  Compiling...
+  vulkan_studying.cpp
+  Generating Code...
+  vulkan_studying.vcxproj -> C:\Users\n3m0\documents\visual studio 2017\Projects\vulkan_studying\x64\Debug\vulkan_studying.exe
+  vulkan_studying.vcxproj -> C:\Users\n3m0\documents\visual studio 2017\Projects\vulkan_studying\x64\Debug\vulkan_studying.pdb (Partial PDB)

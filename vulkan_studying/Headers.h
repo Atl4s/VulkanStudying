@@ -1,0 +1,15 @@
+#pragma once
+#include <iostream>
+#include <cassert>
+#include <stdexcept>
+#include <functional>
+#include <algorithm>
+#include <vector>
+#include <set>
+#include <cstring>
+#include <string>
+#include <fstream>
+#include <chrono>
+#include <SDL.h>
+#include <SDL_timer.h>
+#include <glm/glm.hpp>
